@@ -16,7 +16,6 @@
     {
       "name": "index",
       "title": "Get bird fact",
-      "subtitle": "Fetches a random bird fact",
       "description": "Brings a fun bird fact to your raycast",
       "mode": "view"
     }
